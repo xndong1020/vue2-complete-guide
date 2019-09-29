@@ -9,6 +9,10 @@ npm install
 ```
 npm run serve
 ```
+To overwrite default port(8080)
+```
+npm run serve -- --port 3000
+```
 
 ### Compiles and minifies for production
 ```
